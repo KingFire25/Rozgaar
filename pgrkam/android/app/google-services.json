@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174061172844",
+    "project_id": "pgrkam-b2a97",
+    "storage_bucket": "pgrkam-b2a97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174061172844:android:074fdf8cd853e494534049",
+        "android_client_info": {
+          "package_name": "com.example.pgrkam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4w35_W09Lx5UA7RR_I3gNnveO0qQjYEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
